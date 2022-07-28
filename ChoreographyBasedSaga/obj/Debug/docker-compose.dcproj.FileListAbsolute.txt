@@ -1,0 +1,2 @@
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

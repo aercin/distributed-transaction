@@ -1,0 +1,30 @@
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\services\payment\domain\bin\Debug\net6.0\domain.deps.json
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\services\payment\domain\bin\Debug\net6.0\domain.dll
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\services\payment\domain\bin\Debug\net6.0\domain.pdb
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\services\payment\domain\bin\Debug\net6.0\core-domain.dll
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\services\payment\domain\bin\Debug\net6.0\core-domain.pdb
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\services\payment\domain\obj\Debug\net6.0\domain.csproj.AssemblyReference.cache
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\services\payment\domain\obj\Debug\net6.0\domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\services\payment\domain\obj\Debug\net6.0\domain.AssemblyInfoInputs.cache
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\services\payment\domain\obj\Debug\net6.0\domain.AssemblyInfo.cs
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\services\payment\domain\obj\Debug\net6.0\domain.csproj.CoreCompileInputs.cache
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\services\payment\domain\obj\Debug\net6.0\domain.csproj.CopyComplete
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\services\payment\domain\obj\Debug\net6.0\domain.dll
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\services\payment\domain\obj\Debug\net6.0\refint\domain.dll
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\services\payment\domain\obj\Debug\net6.0\domain.pdb
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\services\payment\domain\obj\Debug\net6.0\ref\domain.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\services\payment\domain\bin\Debug\net6.0\domain.deps.json
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\services\payment\domain\bin\Debug\net6.0\domain.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\services\payment\domain\bin\Debug\net6.0\domain.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\services\payment\domain\bin\Debug\net6.0\core-domain.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\services\payment\domain\bin\Debug\net6.0\core-domain.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\services\payment\domain\obj\Debug\net6.0\domain.csproj.AssemblyReference.cache
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\services\payment\domain\obj\Debug\net6.0\domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\services\payment\domain\obj\Debug\net6.0\domain.AssemblyInfoInputs.cache
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\services\payment\domain\obj\Debug\net6.0\domain.AssemblyInfo.cs
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\services\payment\domain\obj\Debug\net6.0\domain.csproj.CoreCompileInputs.cache
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\services\payment\domain\obj\Debug\net6.0\domain.csproj.CopyComplete
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\services\payment\domain\obj\Debug\net6.0\domain.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\services\payment\domain\obj\Debug\net6.0\refint\domain.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\services\payment\domain\obj\Debug\net6.0\domain.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\services\payment\domain\obj\Debug\net6.0\ref\domain.dll

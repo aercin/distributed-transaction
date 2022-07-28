@@ -1,0 +1,24 @@
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-application\bin\Debug\net6.0\core-application.deps.json
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-application\bin\Debug\net6.0\core-application.dll
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-application\bin\Debug\net6.0\core-application.pdb
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-application\obj\Debug\net6.0\core-application.csproj.AssemblyReference.cache
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-application\obj\Debug\net6.0\core-application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-application\obj\Debug\net6.0\core-application.AssemblyInfoInputs.cache
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-application\obj\Debug\net6.0\core-application.AssemblyInfo.cs
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-application\obj\Debug\net6.0\core-application.csproj.CoreCompileInputs.cache
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-application\obj\Debug\net6.0\core-application.dll
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-application\obj\Debug\net6.0\refint\core-application.dll
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-application\obj\Debug\net6.0\core-application.pdb
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-application\obj\Debug\net6.0\ref\core-application.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-application\bin\Debug\net6.0\core-application.deps.json
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-application\bin\Debug\net6.0\core-application.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-application\bin\Debug\net6.0\core-application.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-application\obj\Debug\net6.0\core-application.csproj.AssemblyReference.cache
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-application\obj\Debug\net6.0\core-application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-application\obj\Debug\net6.0\core-application.AssemblyInfoInputs.cache
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-application\obj\Debug\net6.0\core-application.AssemblyInfo.cs
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-application\obj\Debug\net6.0\core-application.csproj.CoreCompileInputs.cache
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-application\obj\Debug\net6.0\core-application.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-application\obj\Debug\net6.0\refint\core-application.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-application\obj\Debug\net6.0\core-application.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-application\obj\Debug\net6.0\ref\core-application.dll

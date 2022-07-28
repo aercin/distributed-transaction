@@ -1,0 +1,24 @@
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-domain\bin\Debug\net6.0\core-domain.deps.json
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-domain\bin\Debug\net6.0\core-domain.dll
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-domain\bin\Debug\net6.0\core-domain.pdb
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-domain\obj\Debug\net6.0\core-domain.csproj.AssemblyReference.cache
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-domain\obj\Debug\net6.0\core-domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-domain\obj\Debug\net6.0\core-domain.AssemblyInfoInputs.cache
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-domain\obj\Debug\net6.0\core-domain.AssemblyInfo.cs
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-domain\obj\Debug\net6.0\core-domain.csproj.CoreCompileInputs.cache
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-domain\obj\Debug\net6.0\core-domain.dll
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-domain\obj\Debug\net6.0\refint\core-domain.dll
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-domain\obj\Debug\net6.0\core-domain.pdb
+C:\Users\aercin\Desktop\Saga Sample\DistributedTransactionViaSAGA\src\core\core-domain\obj\Debug\net6.0\ref\core-domain.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-domain\bin\Debug\net6.0\core-domain.deps.json
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-domain\bin\Debug\net6.0\core-domain.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-domain\bin\Debug\net6.0\core-domain.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-domain\obj\Debug\net6.0\core-domain.csproj.AssemblyReference.cache
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-domain\obj\Debug\net6.0\core-domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-domain\obj\Debug\net6.0\core-domain.AssemblyInfoInputs.cache
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-domain\obj\Debug\net6.0\core-domain.AssemblyInfo.cs
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-domain\obj\Debug\net6.0\core-domain.csproj.CoreCompileInputs.cache
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-domain\obj\Debug\net6.0\core-domain.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-domain\obj\Debug\net6.0\refint\core-domain.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-domain\obj\Debug\net6.0\core-domain.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\ChoreographyBasedSaga\src\core\core-domain\obj\Debug\net6.0\ref\core-domain.dll
