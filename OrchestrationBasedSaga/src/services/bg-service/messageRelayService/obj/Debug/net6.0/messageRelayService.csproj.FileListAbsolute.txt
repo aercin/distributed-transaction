@@ -1,0 +1,271 @@
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.csproj.AssemblyReference.cache
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.AssemblyInfoInputs.cache
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.AssemblyInfo.cs
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.csproj.CoreCompileInputs.cache
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\appsettings.json
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\messageRelayService.exe
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\messageRelayService.deps.json
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\messageRelayService.runtimeconfig.json
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\messageRelayService.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\messageRelayService.pdb
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Automatonymous.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Dapper.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\GreenPipes.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\MassTransit.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\NewId.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Npgsql.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-application.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-domain.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-infrastructure.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-messages.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-infrastructure.pdb
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-messages.pdb
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-application.pdb
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-domain.pdb
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.csproj.CopyComplete
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\refint\messageRelayService.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.pdb
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.genruntimeconfig.cache
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\ref\messageRelayService.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\MassTransit.EntityFrameworkCoreIntegration.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\appsettings.json
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\messageRelayService.exe
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\messageRelayService.deps.json
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\messageRelayService.runtimeconfig.json
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\messageRelayService.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\messageRelayService.pdb
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Dapper.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\GreenPipes.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\MassTransit.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\MassTransit.EntityFrameworkCoreIntegration.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Npgsql.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-application.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-domain.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-infrastructure.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-messages.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-infrastructure.pdb
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-messages.pdb
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-application.pdb
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-domain.pdb
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.csproj.AssemblyReference.cache
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.AssemblyInfoInputs.cache
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.AssemblyInfo.cs
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.csproj.CoreCompileInputs.cache
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.csproj.CopyComplete
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\refint\messageRelayService.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.pdb
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.genruntimeconfig.cache
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\obj\Debug\net6.0\ref\messageRelayService.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\MassTransit.Abstractions.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\appsettings.json
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\messageRelayService.exe
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\messageRelayService.deps.json
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\messageRelayService.runtimeconfig.json
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\messageRelayService.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\messageRelayService.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Dapper.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\GreenPipes.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\MassTransit.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\MassTransit.Abstractions.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\MassTransit.EntityFrameworkCoreIntegration.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Npgsql.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-application.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-domain.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-infrastructure.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-messages.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-infrastructure.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-messages.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-application.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\bin\Debug\net6.0\core-domain.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.csproj.AssemblyReference.cache
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.AssemblyInfoInputs.cache
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.AssemblyInfo.cs
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.csproj.CoreCompileInputs.cache
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.csproj.CopyComplete
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\obj\Debug\net6.0\refint\messageRelayService.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\obj\Debug\net6.0\messageRelayService.genruntimeconfig.cache
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\bg-service\messageRelayService\obj\Debug\net6.0\ref\messageRelayService.dll

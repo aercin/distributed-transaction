@@ -1,0 +1,36 @@
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\bin\Debug\net6.0\core-messages.deps.json
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\bin\Debug\net6.0\core-messages.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\bin\Debug\net6.0\core-messages.pdb
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\obj\Debug\net6.0\core-messages.csproj.AssemblyReference.cache
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\obj\Debug\net6.0\core-messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\obj\Debug\net6.0\core-messages.AssemblyInfoInputs.cache
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\obj\Debug\net6.0\core-messages.AssemblyInfo.cs
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\obj\Debug\net6.0\core-messages.csproj.CoreCompileInputs.cache
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\obj\Debug\net6.0\core-messages.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\obj\Debug\net6.0\refint\core-messages.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\obj\Debug\net6.0\core-messages.pdb
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\obj\Debug\net6.0\ref\core-messages.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\bin\Debug\net6.0\core-messages.deps.json
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\bin\Debug\net6.0\core-messages.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\bin\Debug\net6.0\core-messages.pdb
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\obj\Debug\net6.0\core-messages.csproj.AssemblyReference.cache
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\obj\Debug\net6.0\core-messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\obj\Debug\net6.0\core-messages.AssemblyInfoInputs.cache
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\obj\Debug\net6.0\core-messages.AssemblyInfo.cs
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\obj\Debug\net6.0\core-messages.csproj.CoreCompileInputs.cache
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\obj\Debug\net6.0\core-messages.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\obj\Debug\net6.0\refint\core-messages.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\obj\Debug\net6.0\core-messages.pdb
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\core\core-messages\obj\Debug\net6.0\ref\core-messages.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\core\core-messages\bin\Debug\net6.0\core-messages.deps.json
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\core\core-messages\bin\Debug\net6.0\core-messages.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\core\core-messages\bin\Debug\net6.0\core-messages.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\core\core-messages\obj\Debug\net6.0\core-messages.csproj.AssemblyReference.cache
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\core\core-messages\obj\Debug\net6.0\core-messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\core\core-messages\obj\Debug\net6.0\core-messages.AssemblyInfoInputs.cache
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\core\core-messages\obj\Debug\net6.0\core-messages.AssemblyInfo.cs
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\core\core-messages\obj\Debug\net6.0\core-messages.csproj.CoreCompileInputs.cache
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\core\core-messages\obj\Debug\net6.0\core-messages.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\core\core-messages\obj\Debug\net6.0\refint\core-messages.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\core\core-messages\obj\Debug\net6.0\core-messages.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\core\core-messages\obj\Debug\net6.0\ref\core-messages.dll

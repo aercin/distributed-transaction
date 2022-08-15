@@ -1,0 +1,415 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\services\\payment\\infrastructure\\infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-application\\core-application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-application\\core-application.csproj",
+        "projectName": "core-application",
+        "projectPath": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-application\\core-application.csproj",
+        "packagesPath": "C:\\Users\\aercin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aercin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-domain\\core-domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-domain\\core-domain.csproj",
+        "projectName": "core-domain",
+        "projectPath": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-domain\\core-domain.csproj",
+        "packagesPath": "C:\\Users\\aercin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aercin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-infrastructure\\core-infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-infrastructure\\core-infrastructure.csproj",
+        "projectName": "core-infrastructure",
+        "projectPath": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-infrastructure\\core-infrastructure.csproj",
+        "packagesPath": "C:\\Users\\aercin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aercin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-application\\core-application.csproj": {
+                "projectPath": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-application\\core-application.csproj"
+              },
+              "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-domain\\core-domain.csproj": {
+                "projectPath": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-domain\\core-domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "GreenPipes": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "MassTransit.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-messages\\core-messages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-messages\\core-messages.csproj",
+        "projectName": "core-messages",
+        "projectPath": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-messages\\core-messages.csproj",
+        "packagesPath": "C:\\Users\\aercin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-messages\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aercin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\services\\payment\\domain\\domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\services\\payment\\domain\\domain.csproj",
+        "projectName": "domain",
+        "projectPath": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\services\\payment\\domain\\domain.csproj",
+        "packagesPath": "C:\\Users\\aercin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\services\\payment\\domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aercin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-domain\\core-domain.csproj": {
+                "projectPath": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-domain\\core-domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\services\\payment\\infrastructure\\infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\services\\payment\\infrastructure\\infrastructure.csproj",
+        "projectName": "infrastructure",
+        "projectPath": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\services\\payment\\infrastructure\\infrastructure.csproj",
+        "packagesPath": "C:\\Users\\aercin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\services\\payment\\infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aercin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-infrastructure\\core-infrastructure.csproj": {
+                "projectPath": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-infrastructure\\core-infrastructure.csproj"
+              },
+              "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-messages\\core-messages.csproj": {
+                "projectPath": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\core\\core-messages\\core-messages.csproj"
+              },
+              "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\services\\payment\\domain\\domain.csproj": {
+                "projectPath": "C:\\Users\\aercin\\Desktop\\GithubRepos\\distributed-transaction\\OrchestrationBasedSaga\\src\\services\\payment\\domain\\domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

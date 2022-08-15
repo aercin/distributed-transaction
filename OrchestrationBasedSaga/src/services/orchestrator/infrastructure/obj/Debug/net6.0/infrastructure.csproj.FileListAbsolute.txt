@@ -1,0 +1,65 @@
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfo.cs
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\infrastructure.deps.json
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\infrastructure.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\infrastructure.pdb
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-application.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-domain.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-infrastructure.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-messages.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\domain.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-infrastructure.pdb
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-messages.pdb
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\domain.pdb
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-application.pdb
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-domain.pdb
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CopyComplete
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\obj\Debug\net6.0\refint\infrastructure.dll
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.pdb
+C:\Users\aercin\Desktop\Saga Sample\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\obj\Debug\net6.0\ref\infrastructure.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\infrastructure.deps.json
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\infrastructure.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\infrastructure.pdb
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-application.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-domain.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-infrastructure.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-messages.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-infrastructure.pdb
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-messages.pdb
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-application.pdb
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-domain.pdb
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfo.cs
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CopyComplete
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\obj\Debug\net6.0\refint\infrastructure.dll
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.pdb
+C:\Users\aercin\Desktop\Denemelerim\OrchestrationBasedSaga\DistributedTransactionViaSAGA\src\services\orchestrator\infrastructure\obj\Debug\net6.0\ref\infrastructure.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\bin\Debug\net6.0\infrastructure.deps.json
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\bin\Debug\net6.0\infrastructure.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\bin\Debug\net6.0\infrastructure.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-application.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-domain.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-infrastructure.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-messages.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-infrastructure.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-messages.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-application.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\bin\Debug\net6.0\core-domain.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfo.cs
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CopyComplete
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\obj\Debug\net6.0\refint\infrastructure.dll
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\obj\Debug\net6.0\infrastructure.pdb
+C:\Users\aercin\Desktop\GithubRepos\distributed-transaction\OrchestrationBasedSaga\src\services\orchestrator\infrastructure\obj\Debug\net6.0\ref\infrastructure.dll
