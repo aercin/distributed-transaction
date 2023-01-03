@@ -55,6 +55,7 @@ Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-co
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8E351D0F-D509-4C04-B442-1AB5B35C2C59}"
 	ProjectSection(SolutionItems) = preProject
+		for-is4-token.postman_collection.json = for-is4-token.postman_collection.json
 		is4-seed-data-script.sql = is4-seed-data-script.sql
 	EndProjectSection
 EndProject
