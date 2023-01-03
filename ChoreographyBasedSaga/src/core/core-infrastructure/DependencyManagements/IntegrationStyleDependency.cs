@@ -21,7 +21,7 @@ namespace core_infrastructure.DependencyManagements
                 config.UsingRabbitMq((cxt, cfg) =>
                 {
                     cfg.Host(new Uri(dependencyOptions.RootUri), x =>
-                    {
+                    { 
                         x.Username(dependencyOptions.UserName);
                         x.Password(dependencyOptions.Password);
                     });

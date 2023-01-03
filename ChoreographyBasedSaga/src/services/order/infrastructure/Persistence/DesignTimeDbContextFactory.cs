@@ -9,7 +9,7 @@ namespace infrastructure.Persistence
         public OrderDbContext CreateDbContext(string[] args)
         {
             var optionsBuilder = new DbContextOptionsBuilder<OrderDbContext>();
-            optionsBuilder.UseNpgsql("host=localhost;port=5001;database=orderDb;username=admin;password=sa1234");
+            optionsBuilder.UseNpgsql("host=localhost;port=5432;database=orderDb;username=admin;password=sa1234");
 
             return new OrderDbContext(optionsBuilder.Options);
         }

@@ -8,7 +8,7 @@ namespace infrastructure.Persistence
         public StockDbContext CreateDbContext(string[] args)
         {
             var optionsBuilder = new DbContextOptionsBuilder<StockDbContext>();
-            optionsBuilder.UseNpgsql("host=localhost;port=5001;database=stockDb;username=admin;password=sa1234");
+            optionsBuilder.UseNpgsql("host=localhost;port=5432;database=stockDb;username=admin;password=sa1234");
 
             return new StockDbContext(optionsBuilder.Options);
         }

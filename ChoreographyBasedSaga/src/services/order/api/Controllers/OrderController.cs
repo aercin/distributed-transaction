@@ -1,9 +1,11 @@
 ﻿using application;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace api.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class OrderController : ControllerBase
@@ -13,7 +15,7 @@ namespace api.Controllers
         {
             this._mediator = mediator;
         }
-         
+
         [HttpPost("/Order")]
         public async Task<IActionResult> PlaceOrder(PlaceOrder.Command request)
         {

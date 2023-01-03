@@ -43,15 +43,20 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "domain", "src\services\paym
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "infrastructure", "src\services\payment\infrastructure\infrastructure.csproj", "{838C0537-5DD3-4AA1-9184-7410252A98A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "core-application", "src\core\core-application\core-application.csproj", "{AF123A40-F6D5-467C-B098-D745C98AAECF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "core-application", "src\core\core-application\core-application.csproj", "{AF123A40-F6D5-467C-B098-D745C98AAECF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "core-messages", "src\core\core-messages\core-messages.csproj", "{5BB638E1-BB11-43C8-B0AA-2C0DC13C0B71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "core-messages", "src\core\core-messages\core-messages.csproj", "{5BB638E1-BB11-43C8-B0AA-2C0DC13C0B71}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bg-service", "bg-service", "{AA6A2BC6-25A7-4DE2-9EC9-299D3CDA3739}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "messageRelayService", "src\services\bg-service\messageRelayService\messageRelayService.csproj", "{1059A78C-982F-4F1F-8D34-DC244678E15E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "messageRelayService", "src\services\bg-service\messageRelayService\messageRelayService.csproj", "{1059A78C-982F-4F1F-8D34-DC244678E15E}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{F689A390-2E41-4BB4-AF13-6F7A163E2EAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8E351D0F-D509-4C04-B442-1AB5B35C2C59}"
+	ProjectSection(SolutionItems) = preProject
+		is4-seed-data-script.sql = is4-seed-data-script.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

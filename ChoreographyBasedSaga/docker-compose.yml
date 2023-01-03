@@ -1,27 +1,58 @@
 version: '3.4'
 
 services:
+   authorizationApi:
+    image: aercin86/is4api:1.0.1
+    container_name: is4Api 
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ASPNETCORE_URLS=http://+:5080 
+    ports:
+      - 5080:5080
+    depends_on:
+      - postgres
+    networks:
+      - dev
+   
+   resourceApi:
+    image: aercin86/resourceapi:1.0.1 
+    container_name: resourceApi
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ASPNETCORE_URLS=http://+:5205
+    ports:
+      - 5205:5205
+    depends_on:
+      - authorizationApi  
+    networks:
+      - dev
+
    postgres:
     image: postgres:14.2-alpine3.15
-    container_name: 'postgre'
+    container_name: postgres
     volumes:
       - db_volume:/var/lib/postgresql/data
+      - ./docker-postgresql-multiple-databases:/docker-entrypoint-initdb.d
     environment:
-      POSTGRES_DB: orderDb
+      POSTGRES_MULTIPLE_DATABASES: idpDb,orderDb,stockDb,paymentDb
       POSTGRES_USER: admin
       POSTGRES_PASSWORD: sa1234
     ports:
-      - 5001:5432
+      - 5432:5432
+    networks:
+      - dev
   
    redis:
     image: redis:6.2
-    container_name: 'redis'
+    container_name: redis
     ports:
       - 5002:6379 
-     
+    networks:
+      - dev
+
    rabbitmq:
     image: rabbitmq:3-management
-    container_name: 'rabbitmq'
+    container_name: rabbitmq
     ports:
       - 5003:5672
       - 5004:15672
@@ -29,12 +60,18 @@ services:
       - rabbitmq_data:/var/lib/rabbitmq/
       - rabbitmq_log:/var/log/rabbitmq
     healthcheck:
-     test: ["CMD", "curl", "-f", "http://localhost:5004"]
+     test: ["CMD", "curl", "-f", "http://rabbitmq:15672"]
      interval: 30s
      timeout: 10s
      retries: 5
+    networks:
+      - dev
 
 volumes:
  db_volume: 
  rabbitmq_data:
  rabbitmq_log:
+
+networks:
+  dev:
+    driver: bridge

@@ -1,0 +1,17 @@
+{
+	"info": {
+		"_postman_id": "510e187b-edb9-442d-99a8-8146e58b0bb9",
+		"name": "for-is4-token",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Token Request",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

@@ -8,7 +8,7 @@ namespace infrastructure.Persistence
         public PaymentDbContext CreateDbContext(string[] args)
         {
             var optionsBuilder = new DbContextOptionsBuilder<PaymentDbContext>();
-            optionsBuilder.UseNpgsql("host=localhost;port=5001;database=paymentDb;username=admin;password=sa1234");
+            optionsBuilder.UseNpgsql("host=localhost;port=5432;database=paymentDb;username=admin;password=sa1234");
 
             return new PaymentDbContext(optionsBuilder.Options);
         }
