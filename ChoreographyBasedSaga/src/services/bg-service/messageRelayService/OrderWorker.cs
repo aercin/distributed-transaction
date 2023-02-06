@@ -24,11 +24,17 @@ namespace messageRelayService
 
             while (await timer.WaitForNextTickAsync(stoppingToken))
             {
-                _logger.LogInformation("Order Message Relay Service is running at: {time}", DateTime.Now);
+                await SendOutboxMessagesToBroker();
+            }  
+        }
 
-                using (var connection = this._dbConnectionFactory.GetOpenConnection())
-                {
-                    string sql = $@"     SELECT
+        public async Task SendOutboxMessagesToBroker()
+        {
+            _logger.LogInformation("Order Message Relay Service is running at: {time}", DateTime.Now);
+
+            using (var connection = this._dbConnectionFactory.GetOpenConnection())
+            {
+                string sql = $@"     SELECT
                                           ""Id"",
                                           ""Type"",
                                           ""Message"",
@@ -36,25 +42,24 @@ namespace messageRelayService
                                      FROM public.""OutboxMessages"" 
                                 ";
 
-                    var messages = await connection.QueryAsync<OutboxMessage>(sql);
+                var messages = await connection.QueryAsync<OutboxMessage>(sql);
 
-                    foreach (var relatedOutBoxMessage in messages)
+                foreach (var relatedOutBoxMessage in messages)
+                {
+                    try
                     {
-                        try
-                        {
-                            var message = JsonSerializer.Deserialize(relatedOutBoxMessage.Message, Type.GetType(relatedOutBoxMessage.Type));
+                        var message = JsonSerializer.Deserialize(relatedOutBoxMessage.Message, Type.GetType(relatedOutBoxMessage.Type));
 
-                            await this._bus.Publish(message);
+                        await this._bus.Publish(message);
 
-                            await connection.ExecuteAsync(@"DELETE FROM public.""OutboxMessages"" WHERE ""Id""=@Id", new { Id = relatedOutBoxMessage.Id }); 
-                        }
-                        catch (Exception ex)
-                        {
-                            this._logger.LogError(ex, $"{relatedOutBoxMessage.Id} idli mesaj event bus gönderiminde hata ile karþýlaþýldý");
-                        }
+                        await connection.ExecuteAsync(@"DELETE FROM public.""OutboxMessages"" WHERE ""Id""=@Id", new { Id = relatedOutBoxMessage.Id });
+                    }
+                    catch (Exception ex)
+                    {
+                        this._logger.LogError(ex, $"{relatedOutBoxMessage.Id} idli mesaj event bus gönderiminde hata ile karþýlaþýldý");
                     }
                 }
-            }  
+            }
         }
     }
 }

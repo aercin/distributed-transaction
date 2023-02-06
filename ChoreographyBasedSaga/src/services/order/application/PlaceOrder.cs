@@ -11,7 +11,7 @@ namespace application
         {
             public List<domain.Dtos.OrderItem> OrderItems { get; set; }
         }
-   
+
         #endregion
 
         #region Command Handler
@@ -24,14 +24,14 @@ namespace application
             }
 
             public async Task<Response> Handle(Command request, CancellationToken cancellationToken)
-            { 
+            {
                 var newOrder = Order.PlaceOrder(request.OrderItems);
 
                 this._uow.OrderRepo.Add(newOrder);
-                
+
                 await this._uow.CompleteAsync();
 
-                return new Response { isSuccess = true };  
+                return new Response { isSuccess = true, OrderNo = newOrder.OrderNo };
             }
         }
         #endregion
@@ -40,6 +40,8 @@ namespace application
         public class Response
         {
             public bool isSuccess { get; set; }
+
+            public Guid OrderNo { get; set; }
         }
         #endregion
     }

@@ -17,7 +17,7 @@ namespace domain.Entities
 
         private Payment(Guid orderNo, DateTime paymentDate)
         {
-            this.OrderNo = OrderNo;
+            this.OrderNo = orderNo;
             this.PaymentDate = paymentDate;
             AddDomainEvent(new PaymentSuccessedEvent
             {
